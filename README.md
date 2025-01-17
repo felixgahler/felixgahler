@@ -11,10 +11,10 @@
 
 <h2>About Me</h2>
 
-- 👨🏼‍🎓 Computer science student from germany
-- 👀 I'm interested in full stack software development
-- 📱 I’m currently learning mobile app developement with React Native
-- 📫 How to reach me:
+- <h4>👨🏼‍🎓 Computer science student from germany</h4>
+- <h4>👀 I'm interested in full stack software development</h4>
+- <h4>📱 I’m currently learning mobile app developement with React Native</h4>
+- <h4>📫 How to reach me: <a href="https://www.linkedin.com/in/felix-gahler-aa57b4302">LinkedIn</a></h4>
 
 <br>
 
