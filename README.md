@@ -11,10 +11,10 @@
 
 <h2>About Me</h2>
 
-- <h4>👨🏼‍🎓 Computer science student from germany</h4>
-- <h4>👀 I'm interested in full stack software development</h4>
-- <h4>📱 I’m currently learning mobile app developement with React Native</h4>
-- <h4>📫 How to reach me: <a href="https://www.linkedin.com/in/felix-gahler-aa57b4302">LinkedIn</a></h4>
+- <h3>👨🏼‍🎓 Computer science student from germany</h3>
+- <h3>👀 I'm interested in full stack software development</h3>
+- <h3>📱 I’m currently learning mobile app developement with React Native</h3>
+- <h3>📫 How to reach me: <a href="https://www.linkedin.com/in/felix-gahler-aa57b4302">LinkedIn</a></h3>
 
 <br>
 
@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,vscode,git,figma,html,css,js,py,nodejs,vuejs,react,express,java,postgres,unity,cs,dotnet&perline=14" />
+    <img src="https://skillicons.dev/icons?i=discord,vscode,git,figma,html,css,js,py,nodejs,vuejs,react,java,postgres,unity,cs,dotnet&perline=8" />
   </a>
 </p>
 
