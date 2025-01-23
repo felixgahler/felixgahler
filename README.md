@@ -14,6 +14,7 @@
 - <h3>👨🏼‍🎓 Computer science student from germany</h3>
 - <h3>👀 I'm interested in full stack software development</h3>
 - <h3>📱 I’m currently learning mobile app development with React Native</h3>
+- <h3>🚀 Over time more repositories and finished projects will be available</h3>
 - <h3>📫 How to reach me: <a href="https://www.linkedin.com/in/felix-gahler-aa57b4302">LinkedIn</a></h3>
 
 <br>
